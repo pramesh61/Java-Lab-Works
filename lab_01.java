@@ -1,3 +1,5 @@
+// Lab 1: Implementation of Multiplication Table of 2.
+
 public class lab_01 {
     public static void main(String[] args) {
         int number = 2;
